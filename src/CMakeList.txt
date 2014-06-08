@@ -1,0 +1,3 @@
+This is a simple text file which creates a daemon
+And also have the list of files that creates so or daemon
+This file also declares the required packages while building rpm file.
